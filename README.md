@@ -25,7 +25,9 @@ L’objectif de cette formation est d’acquérir les bases du langage TEI-ODD, 
 
 ## Pré-requis
 
-Tout en restant accessible, cette formation de niveau avancé est destinée à des personnes disposant soit déjà d’une bonne connaissance de la Text Encoding Initiative ou des technologies de schémas XML. Cette formation pouvant par exemple servir d’approfondissement pour des personnes ayant déjà suivi une initiation à la TEI ou qui souhaitent améliorer leur pratique.
+Tout en restant accessible, cette formation de niveau avancé s’adresse à des personnes disposant déjà d’une bonne connaissance de la Text Encoding Initiative ou des technologies de schémas XML. 
+
+Elle peut par exemple servir d’approfondissement pour des personnes qui souhaitent améliorer leur pratique ou ayant déjà suivi une initiation à la TEI à l’École nationale des chartes ou ailleurs.
 
 L’École nationale des chartes propose par ailleurs une formation d’initiation à la Text Encoding Initiative offrant tous les pré-requis nécessaires à cette formation. <lien>
 
