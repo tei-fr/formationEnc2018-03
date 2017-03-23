@@ -19,6 +19,16 @@ Cette formation de niveau avancé (perfectionnement) est principalement destiné
 - Savoir documenter son modèle
 - Identifier l’utilité d’un modèle pour la pérennisation
 
+## Objectifs
+
+L’objectif de cette formation est d’acquérir les bases du langage TEI-ODD, un langage destiné à modéliser un système d’encodage et sa documentation. Au terme de la formation, les stagiaires seront en mesure de produire une spécification formelle permettant la génération de schémas XML et d’une documentation en utilisant pleinement les mécanismes définis par la TEI pour ses propres *Guidelines*.
+
+## Pré-requis
+
+Tout en restant accessible, cette formation de niveau avancé est destinée à des personnes disposant soit déjà d’une bonne connaissance de la Text Encoding Initiative ou des technologies de schémas XML. Cette formation pouvant par exemple servir d’approfondissement pour des personnes ayant déjà suivi une initiation à la TEI ou qui souhaitent améliorer leur pratique.
+
+L’École nationale des chartes propose par ailleurs une formation d’initiation à la Text Encoding Initiative offrant tous les pré-requis nécessaires à cette formation. <lien>
+
 ## Se rafraîchir les idées
 
 Lou Burnard. Qu’est-ce que la TEI ? Encyclopédie numérique. OpenEdition Press, 2015. http://books.openedition.org/oep/1237 DOI : 10.4000/books.oep.1237
