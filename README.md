@@ -1,6 +1,4 @@
-# formationEnc2018-03
-
-## Modéliser son édition critique avec la TEI
+# Modéliser son édition critique avec la TEI
 
 Formation TEI avancée de l’[École nationale des chartes](http://www.enc-sorbonne.fr), du 5 au 8 mars 2018.
 
